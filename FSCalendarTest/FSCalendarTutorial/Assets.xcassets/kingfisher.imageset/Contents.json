@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "♂_Common_Kingfisher_(Alcedo_atthis)_Photograph_By_Shantanu_Kuveskar,_Mangaon,_Maharashtra,_India.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

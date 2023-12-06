@@ -22,7 +22,7 @@ final class DetailViewController: UIViewController {
     // MARK: - Properties
     var selectedDate: Date? {
         didSet {
-            calendarView.select(selectedDate ?? Date())
+            calendarView.select(selectedDate, scrollToDate: true)
         }
     }
     

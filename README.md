@@ -1,6 +1,3 @@
-# 14th-team5-ios-test-project
-디프만 14기 개발하다가 5잉~ 금지 iOS팀 테스트 프로젝트입니다.
-
 <img src="https://user-images.githubusercontent.com/21079970/224588704-8340a864-0560-4f13-8586-eac4937dcfe5.png" align="center" width="150" height="150">
 
 # 14Th-Team5-IOS-Test-Project
